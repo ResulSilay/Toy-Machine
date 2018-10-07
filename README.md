@@ -5,6 +5,6 @@ Bu sürümde, hatalı bir program yazdığınızda benzetim programının sonsuz
 Kaynak Kod Script, http://toy.ecylmz.com/toy.js dosyasından yararlanışmıştır.
 
 Bu program yukarıdaki kaynaklardan yararlanılarak Masaüstü uygulaması olarak uyarlanıp editör haline getirilmeye çalışılmıştır.
-Bu uygulama Bislgisayar Mimarisi dersinde, Merkezi işlem biriminin nasıl çalıştığını anlamak amacı ile incelenmiş ve .net Form ortamına uyarlanmıştır.
+Bu uygulama Bilgisayar Mimarisi dersinde, Merkezi işlem biriminin nasıl çalıştığını anlamak amacı ile incelenmiş ve .net Form ortamına uyarlanmıştır.
 
 [1] http://toy.ecylmz.com/
