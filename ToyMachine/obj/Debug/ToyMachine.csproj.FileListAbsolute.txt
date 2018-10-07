@@ -1,0 +1,11 @@
+C:\Users\37del\PycharmProjects\untitled\MIMARI\Bonus 1\ToyMachine\ToyMachine\obj\Debug\ToyMachine.csprojResolveAssemblyReference.cache
+C:\Users\37del\PycharmProjects\untitled\MIMARI\Bonus 1\ToyMachine\ToyMachine\obj\Debug\ToyMachine.Properties.Resources.resources
+C:\Users\37del\PycharmProjects\untitled\MIMARI\Bonus 1\ToyMachine\ToyMachine\obj\Debug\ToyMachine.csproj.GenerateResource.Cache
+C:\Users\37del\PycharmProjects\untitled\MIMARI\Bonus 1\ToyMachine\ToyMachine\obj\Debug\ToyMachine.Panel.resources
+C:\Users\37del\PycharmProjects\untitled\MIMARI\Bonus 1\ToyMachine\ToyMachine\obj\Debug\ToyMachine.Tools.Input.resources
+C:\Users\37del\PycharmProjects\untitled\MIMARI\Bonus 1\ToyMachine\ToyMachine\obj\Debug\ToyMachine.Codes.resources
+C:\Users\37del\PycharmProjects\untitled\MIMARI\Bonus 1\ToyMachine\ToyMachine\obj\Debug\ToyMachine.Settings.resources
+C:\Users\37del\PycharmProjects\untitled\MIMARI\Bonus 1\ToyMachine\ToyMachine\bin\Debug\ACC.exe
+C:\Users\37del\PycharmProjects\untitled\MIMARI\Bonus 1\ToyMachine\ToyMachine\bin\Debug\ACC.pdb
+C:\Users\37del\PycharmProjects\untitled\MIMARI\Bonus 1\ToyMachine\ToyMachine\obj\Debug\ACC.exe
+C:\Users\37del\PycharmProjects\untitled\MIMARI\Bonus 1\ToyMachine\ToyMachine\obj\Debug\ACC.pdb
