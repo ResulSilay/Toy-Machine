@@ -7,4 +7,7 @@ Kaynak Kod Script, http://toy.ecylmz.com/toy.js dosyasından yararlanışmışt�
 Bu program yukarıdaki kaynaklardan yararlanılarak Masaüstü uygulaması olarak uyarlanıp editör haline getirilmeye çalışılmıştır.
 Bu uygulama Bilgisayar Mimarisi dersinde, Merkezi işlem biriminin nasıl çalıştığını anlamak amacı ile incelenmiş ve .net Form ortamına uyarlanmıştır.
 
+![alt text](https://raw.githubusercontent.com/ResulSilay/Toy-Machine/master/ss_toy_machine.png)
+
+
 [1] http://toy.ecylmz.com/
